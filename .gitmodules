@@ -1,0 +1,6 @@
+[submodule "rprogramming/ProgrammingAssignment2"]
+	path = rprogramming/ProgrammingAssignment2
+	url = https://github.com/lagunex/ProgrammingAssignment2.git
+[submodule "gettingandcleaningdata"]
+	path = gettingandcleaningdata
+	url = https://github.com/lagunex/getcleandata-courseproject
